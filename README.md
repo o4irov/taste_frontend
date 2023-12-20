@@ -1,4 +1,4 @@
-# frontend
+# Taste
 
 ## Project setup
 ```
